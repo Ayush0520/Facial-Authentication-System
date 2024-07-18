@@ -56,6 +56,3 @@ To use this website, follow these steps:
 3. Once you are logged in, you will see a dashboard (no functionality).
 4. To log out, click on "Logout" at the top right corner of the screen.
 
-## Author
-This project was created by **[Atyant Sony](https://github.com/atyant20039)** and **[Singh Ayush Kumar Satish](https://github.com/Ayush0520)** as part of their USS project in 6th Sem at Indraprastha Institute of Information Technology, Delhi.
-
