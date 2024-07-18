@@ -10,7 +10,6 @@ The motivation for this project was to create a secure and convenient way of aut
 
 - [Project Setup](#project-setup)
 - [Usage](#usage)
-- [Author](#author)
 
 ## Project Setup
 
